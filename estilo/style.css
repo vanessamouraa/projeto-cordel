@@ -42,7 +42,7 @@ header h1 {
 header p {
     color: rgba(255, 255, 255, 0.787);
     padding-bottom: 50px;
-    font-size: 1.6vh;
+    font-size: 3.2vh;
     text-shadow: 3px 2px 0px rgba(0, 0, 0, 0.465);
 }
 
@@ -64,7 +64,7 @@ section {
     line-height: 1.4em;
     padding-left: 40px;
     font-family: var(--font03);
-    font-size: 3vh;
+    font-size: 5.4vh;
 }
 
 section p {
